@@ -1,10 +1,10 @@
-/*  your css code here. If applicable */
+/* styles.css */
 p::before {
   content: "Before Element ";
   color: rgb(255, 0, 0);
 }
 
-p::after{
-	content:"After Element ";
-	color: rgb(255, 0, 0);
+p::after {
+  content: "After Element ";
+  color: rgb(255, 0, 0);
 }
